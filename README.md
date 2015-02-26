@@ -34,3 +34,9 @@ This repository contains:
 
 1. Liu, Chao, Fan Guo, and Christos Faloutsos. "BBM: bayesian browsing model from petabyte-scale data." In *Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '09)*. ACM, 2009.
 2. Speicher, Maximilian, Andreas Both, and Martin Gaedke. "TellMyRelevance! Predicting the relevance of web search results from cursor interactions." In *Proceedings of the 22nd ACM International Conference on Information & Knowledge Management (CIKM '13)*. ACM, 2013.
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
