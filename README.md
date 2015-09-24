@@ -15,7 +15,7 @@ but by design of the underlying framework at higher efficiency, robustness and s
 ## Publication(s)
 
 - Maximilian Speicher, Sebastian Nuck, Andreas Both, and Martin Gaedke (2014). "StreamMyRelevance! Prediction of Result Relevance from Real-Time Interactions and its Application to Hotel Search". In: *Proc. ICWE*. http://link.springer.com/chapter/10.1007/978-3-319-08245-5_16
-- Maximilian Speicher, Sebastian Nuck, Lars Wesemann, Andreas Both, and Martin Gaedke (2015). "From TMR to Turtle: Predicting Result Relevance from Mouse Cursor Interactions in Web Search". In: *Journal of Web Engineering*.
+- Maximilian Speicher, Sebastian Nuck, Lars Wesemann, Andreas Both, and Martin Gaedke (2015). "From TMR to Turtle: Predicting Result Relevance from Mouse Cursor Interactions in Web Search". In: *Journal of Web Engineering*. http://www.rintonpress.com/xjwe14/jwe-14-56/386-413.pdf
 
 ## Resources
 
@@ -33,7 +33,7 @@ This repository contains:
 ## References
 
 1. Liu, Chao, Fan Guo, and Christos Faloutsos. "BBM: bayesian browsing model from petabyte-scale data." In *Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '09)*. ACM, 2009.
-2. Speicher, Maximilian, Andreas Both, and Martin Gaedke. "TellMyRelevance! Predicting the relevance of web search results from cursor interactions." In *Proceedings of the 22nd ACM International Conference on Information & Knowledge Management (CIKM '13)*. ACM, 2013.
+2. Speicher, Maximilian, Andreas Both, and Martin Gaedke. "TellMyRelevance! Predicting the relevance of web search results from cursor interactions." In *Proceedings of the 22nd ACM International Conference on Information & Knowledge Management (CIKM '13)*. ACM, 2013. http://dl.acm.org/citation.cfm?doid=2505515.2505703
 
 ## License
 
